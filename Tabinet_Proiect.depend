@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1515676036 source:c:\users\oana_\desktop\programare\tabinet_proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constante.h"
+	"functii.h"
+
+1515675825 c:\users\oana_\desktop\programare\tabinet_proiect\constante.h
+
+1515676036 c:\users\oana_\desktop\programare\tabinet_proiect\functii.h
+
